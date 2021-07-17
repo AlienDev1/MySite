@@ -1,0 +1,29 @@
+{
+  "name": "my_website",
+  "version": "1.0.0",
+  "description": "Deeper dive into bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "Jibri",
+    "Tolen"
+  ],
+  "author": "Jibri Tolen",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.34.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "autoprefixer": "^10.2.6",
+    "bootstrap": "^5.0.1",
+    "glightbox": "^3.0.9",
+    "postcss-cli": "^8.3.1"
+  }
+  
+}
