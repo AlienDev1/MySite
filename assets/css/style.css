@@ -10795,6 +10795,15 @@ textarea.form-control-lg {
   }
 }
 
+.display-3 {
+  font-family: "Poppins", sans-serif;
+}
+
+.border-right {
+  border-right: 0.1rem solid #dee2e6;
+  height: 100%;
+}
+
 .menu {
   background: linear-gradient(to right, rgba(139, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
 }
@@ -10836,6 +10845,18 @@ textarea.form-control-lg {
 }
 .border-animation--border-2 {
   animation-delay: 1.5;
+}
+
+.testimonials {
+  position: relative;
+  padding: 0;
+  background: linear-gradient(to right, rgba(139, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
+}
+
+.portfolio {
+  position: relative;
+  padding: 0;
+  background: linear-gradient(to right, rgba(139, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
 }
 
 /*# sourceMappingURL=style.css.map */

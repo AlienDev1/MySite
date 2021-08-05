@@ -1,0 +1,9 @@
+
+@use'../custom' as *;
+@use'../components/mixins' as *;
+
+.portfolio{
+  position: relative;
+  padding: 0;
+  @include gradient;
+}
